@@ -24,8 +24,6 @@ Reflection tool enables to flexibly use class information during runtime, as wel
 One of reflection capabilities is modifying private field values from outside. We may ask then whether this contradicts the encapsulation principle, and <br>
 the answer is no :)
 
-![Time for reflection](misc/images/time_for_reflection.png)
-
 # Chapter II
 ### General Rules
 - Use this page as the only reference. Do not listen to any rumors and speculations about how to prepare your solution.
